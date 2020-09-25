@@ -6,7 +6,7 @@ Adding a local module repository
 ```
     {
         "type": "path",
-        "url": "upstreams/event",
+        "url": "upstreams/MODULENAME",
         "symlink": "true"
     },
 ```
